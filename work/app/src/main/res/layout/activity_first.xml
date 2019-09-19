@@ -12,6 +12,6 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_weight="1"
-        android:text="是的，你很喜欢" />
+        android:text="第一个页面" />
 
 </LinearLayout>

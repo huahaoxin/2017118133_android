@@ -8,34 +8,29 @@
     tools:context=".MainActivity">
 
 
-    <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:layout_weight="1"
-        android:orientation="vertical">
+
 
         <TextView
                 android:id="@+id/textView3"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
-                android:text="提问：你喜欢安卓吗？" />
+                android:text="页面跳转" />
 
         <Button
             android:id="@+id/btn1"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="喜欢" />
+            android:text="按钮1" />
 
         <Button
             android:id="@+id/btn2"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="一般" />
-    </LinearLayout>
+            android:text="按钮2" />
+
 
 </LinearLayout>
 
-</LinearLayout>
