@@ -8,24 +8,18 @@
     tools:context=".MainActivity">
 
 
-
-
-        <TextView
-                android:id="@+id/textView3"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_weight="1"
-                android:text="页面跳转" />
-
         <Button
             android:id="@+id/btn1"
+            style="@android:style/Widget.Material.Light.Button.Small"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+
             android:layout_weight="1"
             android:text="按钮1" />
 
         <Button
             android:id="@+id/btn2"
+            style="@style/Widget.AppCompat.Button.Small"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
