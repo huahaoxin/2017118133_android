@@ -34,4 +34,9 @@ public class FirstActivity extends AppCompatActivity {
         });
     }
 
+    @Override
+    protected void onDestroy() {
+        super.onDestroy();
+        Log.d("FirstActivity","onDestroy");
+    }
 }

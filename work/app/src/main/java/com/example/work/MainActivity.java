@@ -73,7 +73,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     @Override
     protected void onRestart() {
         super.onRestart();
-        Log.d(TAG,"onRestart");
+        Log.d("MianActivity","onRestart");
     }
 
     @Override
