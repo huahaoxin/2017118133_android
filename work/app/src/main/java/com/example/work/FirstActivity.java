@@ -14,7 +14,7 @@ public class FirstActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        Log.d("FirstActivity",this.toString());
+        Log.d("FirstActivity","Task id is "+getTaskId());
         setContentView(R.layout.activity_first);
         Button button3 =(Button) findViewById(R.id.btn3);
    /*     button3.setOnClickListener(new View.OnClickListener(){
@@ -28,7 +28,7 @@ public class FirstActivity extends AppCompatActivity {
             @Override
             public void onClick(View v){
                // Toast.makeText(FirstActivity.this,"你点击了",Toast.LENGTH_SHORT).show();
-                Intent intent = new Intent(FirstActivity.this,MainActivity.class);
+                Intent intent = new Intent(FirstActivity.this,SecondActivity.class);
                 startActivity(intent);
             }
         });

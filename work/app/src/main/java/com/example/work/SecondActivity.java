@@ -14,6 +14,7 @@ public class SecondActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        Log.d("SecondActivity","Task id is "+getTaskId());
 
         setContentView(R.layout.activity_second);
         Button button4 =(Button) findViewById(R.id.btn4);
