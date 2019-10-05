@@ -11,7 +11,9 @@
         android:theme="@style/AppTheme">
         <activity android:name=".SecondActivity"/>
         <activity android:name=".FirstActivity" />
-        <activity android:name=".MainActivity">
+        <activity android:name=".MainActivity"
+            android:launchMode="singleTop"
+            android:label="This is MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

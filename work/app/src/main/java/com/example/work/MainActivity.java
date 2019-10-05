@@ -34,6 +34,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         Log.d(TAG,"onCreate");
+        Log.d("MainActivity",this.toString());
         setContentView(R.layout.activity_main);
         //初始化方法
         initUI( );

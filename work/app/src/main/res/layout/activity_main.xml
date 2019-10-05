@@ -15,7 +15,7 @@
             android:layout_height="wrap_content"
 
             android:layout_weight="1"
-            android:text="按钮1" />
+            android:text="启动FirstActivity" />
 
         <Button
             android:id="@+id/btn2"
@@ -23,7 +23,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="按钮2" />
+            android:text="启动SecondActivity" />
 
 
 </LinearLayout>
