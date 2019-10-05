@@ -33,7 +33,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-
+        Log.d("MainActivity","Task id is "+getTaskId() );
         setContentView(R.layout.activity_main);
         //初始化方法
         initUI( );
