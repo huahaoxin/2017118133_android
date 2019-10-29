@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# 2017118133_android
- 添加google()
- 版本号改为3.5.0
- 添加google()
- 
- Hello world因为第一次做时，没有选择Java语言，故又做了一个work,这才是第三次作业
+ Hello world为第一次作业
+ work为第二和第三次作业，第三次在第二次上改进的
+ IntentSkip为第四次：隐式调用浏览器、拨号、题图
