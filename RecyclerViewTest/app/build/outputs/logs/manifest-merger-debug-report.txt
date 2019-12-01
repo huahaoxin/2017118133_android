@@ -1,0 +1,113 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Android lession\RecyclerViewTest\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from C:\Android lession\RecyclerViewTest\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from C:\Android lession\RecyclerViewTest\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from C:\Android lession\RecyclerViewTest\app\src\main\AndroidManifest.xml:2:1-20:12
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\华小新\.gradle\caches\transforms-2\files-2.1\8138a8ad0988c5b808cd9efc7a2dbbe5\appcompat-v7-24.2.1\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:recyclerview-v7:24.2.1] C:\Users\华小新\.gradle\caches\transforms-2\files-2.1\f84a5824b18956c600bdc6b6ce8055dd\recyclerview-v7-24.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\华小新\.gradle\caches\transforms-2\files-2.1\e3d22141ff6accbae1e99301ef6b3deb\support-v4-24.2.1\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\华小新\.gradle\caches\transforms-2\files-2.1\d5ab0dccd33c018c8ffdf7e0ccab788b\animated-vector-drawable-24.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\华小新\.gradle\caches\transforms-2\files-2.1\3ecca7d33797352a7f0860be42c3b356\support-vector-drawable-24.2.1\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\华小新\.gradle\caches\transforms-2\files-2.1\0d61bb530d75eb5b3b5a21f342cecc9b\support-fragment-24.2.1\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\华小新\.gradle\caches\transforms-2\files-2.1\7aed8a724c30eda1f3224ec4dba56512\support-core-ui-24.2.1\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\华小新\.gradle\caches\transforms-2\files-2.1\732502907eb70cc475366b2493cdc124\support-media-compat-24.2.1\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\华小新\.gradle\caches\transforms-2\files-2.1\393f1df6f2058747f53bf6cfc22820d6\support-core-utils-24.2.1\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\华小新\.gradle\caches\transforms-2\files-2.1\474b7f8920b322e2e6085bc9965e6e06\support-compat-24.2.1\AndroidManifest.xml:17:1-27:12
+INJECTED from C:\Android lession\RecyclerViewTest\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from C:\Android lession\RecyclerViewTest\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from C:\Android lession\RecyclerViewTest\app\src\main\AndroidManifest.xml:2:1-20:12
+	package
+		ADDED from C:\Android lession\RecyclerViewTest\app\src\main\AndroidManifest.xml:3:5-43
+		INJECTED from C:\Android lession\RecyclerViewTest\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Android lession\RecyclerViewTest\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Android lession\RecyclerViewTest\app\src\main\AndroidManifest.xml
+		ADDED from C:\Android lession\RecyclerViewTest\app\src\main\AndroidManifest.xml:2:1-20:12
+		INJECTED from C:\Android lession\RecyclerViewTest\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Android lession\RecyclerViewTest\app\src\main\AndroidManifest.xml
+		ADDED from C:\Android lession\RecyclerViewTest\app\src\main\AndroidManifest.xml:2:1-20:12
+		INJECTED from C:\Android lession\RecyclerViewTest\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Android lession\RecyclerViewTest\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Android lession\RecyclerViewTest\app\src\main\AndroidManifest.xml:5:5-18:19
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\华小新\.gradle\caches\transforms-2\files-2.1\8138a8ad0988c5b808cd9efc7a2dbbe5\appcompat-v7-24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\华小新\.gradle\caches\transforms-2\files-2.1\8138a8ad0988c5b808cd9efc7a2dbbe5\appcompat-v7-24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\华小新\.gradle\caches\transforms-2\files-2.1\e3d22141ff6accbae1e99301ef6b3deb\support-v4-24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\华小新\.gradle\caches\transforms-2\files-2.1\e3d22141ff6accbae1e99301ef6b3deb\support-v4-24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\华小新\.gradle\caches\transforms-2\files-2.1\d5ab0dccd33c018c8ffdf7e0ccab788b\animated-vector-drawable-24.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\华小新\.gradle\caches\transforms-2\files-2.1\d5ab0dccd33c018c8ffdf7e0ccab788b\animated-vector-drawable-24.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\华小新\.gradle\caches\transforms-2\files-2.1\3ecca7d33797352a7f0860be42c3b356\support-vector-drawable-24.2.1\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\华小新\.gradle\caches\transforms-2\files-2.1\3ecca7d33797352a7f0860be42c3b356\support-vector-drawable-24.2.1\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\华小新\.gradle\caches\transforms-2\files-2.1\0d61bb530d75eb5b3b5a21f342cecc9b\support-fragment-24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\华小新\.gradle\caches\transforms-2\files-2.1\0d61bb530d75eb5b3b5a21f342cecc9b\support-fragment-24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\华小新\.gradle\caches\transforms-2\files-2.1\7aed8a724c30eda1f3224ec4dba56512\support-core-ui-24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\华小新\.gradle\caches\transforms-2\files-2.1\7aed8a724c30eda1f3224ec4dba56512\support-core-ui-24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\华小新\.gradle\caches\transforms-2\files-2.1\732502907eb70cc475366b2493cdc124\support-media-compat-24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\华小新\.gradle\caches\transforms-2\files-2.1\732502907eb70cc475366b2493cdc124\support-media-compat-24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\华小新\.gradle\caches\transforms-2\files-2.1\393f1df6f2058747f53bf6cfc22820d6\support-core-utils-24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\华小新\.gradle\caches\transforms-2\files-2.1\393f1df6f2058747f53bf6cfc22820d6\support-core-utils-24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\华小新\.gradle\caches\transforms-2\files-2.1\474b7f8920b322e2e6085bc9965e6e06\support-compat-24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\华小新\.gradle\caches\transforms-2\files-2.1\474b7f8920b322e2e6085bc9965e6e06\support-compat-24.2.1\AndroidManifest.xml:25:5-20
+	android:supportsRtl
+		ADDED from C:\Android lession\RecyclerViewTest\app\src\main\AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from C:\Android lession\RecyclerViewTest\app\src\main\AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from C:\Android lession\RecyclerViewTest\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Android lession\RecyclerViewTest\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Android lession\RecyclerViewTest\app\src\main\AndroidManifest.xml:10:9-40
+activity#com.example.recyclerviewtest.MainActivity
+ADDED from C:\Android lession\RecyclerViewTest\app\src\main\AndroidManifest.xml:11:9-17:20
+	android:name
+		ADDED from C:\Android lession\RecyclerViewTest\app\src\main\AndroidManifest.xml:11:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Android lession\RecyclerViewTest\app\src\main\AndroidManifest.xml:12:13-16:29
+action#android.intent.action.MAIN
+ADDED from C:\Android lession\RecyclerViewTest\app\src\main\AndroidManifest.xml:13:17-69
+	android:name
+		ADDED from C:\Android lession\RecyclerViewTest\app\src\main\AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Android lession\RecyclerViewTest\app\src\main\AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from C:\Android lession\RecyclerViewTest\app\src\main\AndroidManifest.xml:15:27-74
+uses-sdk
+INJECTED from C:\Android lession\RecyclerViewTest\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Android lession\RecyclerViewTest\app\src\main\AndroidManifest.xml
+INJECTED from C:\Android lession\RecyclerViewTest\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\华小新\.gradle\caches\transforms-2\files-2.1\8138a8ad0988c5b808cd9efc7a2dbbe5\appcompat-v7-24.2.1\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\华小新\.gradle\caches\transforms-2\files-2.1\8138a8ad0988c5b808cd9efc7a2dbbe5\appcompat-v7-24.2.1\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:recyclerview-v7:24.2.1] C:\Users\华小新\.gradle\caches\transforms-2\files-2.1\f84a5824b18956c600bdc6b6ce8055dd\recyclerview-v7-24.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:24.2.1] C:\Users\华小新\.gradle\caches\transforms-2\files-2.1\f84a5824b18956c600bdc6b6ce8055dd\recyclerview-v7-24.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\华小新\.gradle\caches\transforms-2\files-2.1\e3d22141ff6accbae1e99301ef6b3deb\support-v4-24.2.1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\华小新\.gradle\caches\transforms-2\files-2.1\e3d22141ff6accbae1e99301ef6b3deb\support-v4-24.2.1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\华小新\.gradle\caches\transforms-2\files-2.1\d5ab0dccd33c018c8ffdf7e0ccab788b\animated-vector-drawable-24.2.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\华小新\.gradle\caches\transforms-2\files-2.1\d5ab0dccd33c018c8ffdf7e0ccab788b\animated-vector-drawable-24.2.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\华小新\.gradle\caches\transforms-2\files-2.1\3ecca7d33797352a7f0860be42c3b356\support-vector-drawable-24.2.1\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\华小新\.gradle\caches\transforms-2\files-2.1\3ecca7d33797352a7f0860be42c3b356\support-vector-drawable-24.2.1\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\华小新\.gradle\caches\transforms-2\files-2.1\0d61bb530d75eb5b3b5a21f342cecc9b\support-fragment-24.2.1\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\华小新\.gradle\caches\transforms-2\files-2.1\0d61bb530d75eb5b3b5a21f342cecc9b\support-fragment-24.2.1\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\华小新\.gradle\caches\transforms-2\files-2.1\7aed8a724c30eda1f3224ec4dba56512\support-core-ui-24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\华小新\.gradle\caches\transforms-2\files-2.1\7aed8a724c30eda1f3224ec4dba56512\support-core-ui-24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\华小新\.gradle\caches\transforms-2\files-2.1\732502907eb70cc475366b2493cdc124\support-media-compat-24.2.1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\华小新\.gradle\caches\transforms-2\files-2.1\732502907eb70cc475366b2493cdc124\support-media-compat-24.2.1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\华小新\.gradle\caches\transforms-2\files-2.1\393f1df6f2058747f53bf6cfc22820d6\support-core-utils-24.2.1\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\华小新\.gradle\caches\transforms-2\files-2.1\393f1df6f2058747f53bf6cfc22820d6\support-core-utils-24.2.1\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\华小新\.gradle\caches\transforms-2\files-2.1\474b7f8920b322e2e6085bc9965e6e06\support-compat-24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\华小新\.gradle\caches\transforms-2\files-2.1\474b7f8920b322e2e6085bc9965e6e06\support-compat-24.2.1\AndroidManifest.xml:21:5-23:58
+INJECTED from C:\Android lession\RecyclerViewTest\app\src\main\AndroidManifest.xml
+INJECTED from C:\Android lession\RecyclerViewTest\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.1] C:\Users\华小新\.gradle\caches\transforms-2\files-2.1\8138a8ad0988c5b808cd9efc7a2dbbe5\appcompat-v7-24.2.1\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Android lession\RecyclerViewTest\app\src\main\AndroidManifest.xml
+		ADDED from C:\Android lession\RecyclerViewTest\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Android lession\RecyclerViewTest\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Android lession\RecyclerViewTest\app\src\main\AndroidManifest.xml
+		ADDED from C:\Android lession\RecyclerViewTest\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Android lession\RecyclerViewTest\app\src\main\AndroidManifest.xml
